@@ -73,4 +73,4 @@ def run():
 
         st.success(f"**Predicted : {result}**")
 
-run()
+run() 
